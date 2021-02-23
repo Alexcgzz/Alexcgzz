@@ -1,8 +1,8 @@
 <h1 align="center"> Hello I'm Alejandro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <div align="center">
-	<h4>🧍 Alejandro Gonzalez | :mexico: Nuevo Leon, Mexico</h4>
-	<h6>🔥<i>Looking forward to become full stack developer</i>🔥</h6>
+	<h3>🧍 Alejandro Gonzalez | 📍 Nuevo Leon, Mexico</h3>
+	<h5><i>🔥Looking forward to become full stack developer🔥</i></h5>
 </div>
 
 <div align="center">
