@@ -22,7 +22,6 @@
 </div>
 
 <h2 align="center"> Stay Happy! 😄</h2>
-<br>
 
 
 
