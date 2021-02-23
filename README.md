@@ -10,12 +10,20 @@
 </div>
 
 <h3 align="center">Currently working on:</h3>
-<ul>
-  	<li>💻 My Portfolio Webpage on Google SPS Program</li>
-	<li>🕹️ Gamifying Game for Ternium onboarding executives</li>
-	<li>📚 Tutoring</li>
-	<li> <img src="https://media.giphy.com/media/dYldkmQJkb1BLM4bIw/source.gif" width="100px"> Virtual HackMTY 2021</li>
-</ul>
+<div>
+	<div>
+	<ul>
+		<li>💻 My Portfolio Webpage on Google SPS Program</li>
+		<li>🕹️ Gamifying Game for Ternium onboarding executives</li>
+		<li>📚 Tutoring</li>
+		<li> Virtual HackMTY 2021</li>
+	</ul>
+	</div>
+	<div>
+		<img src="https://media.giphy.com/media/dYldkmQJkb1BLM4bIw/source.gif" width="100px">
+	</div>
+</div>
+
 
 <div align="center">
 	<h3>Stats</h3>
