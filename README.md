@@ -9,20 +9,16 @@
 	<img src="https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id}." alt="visitor badge"/>
 </div>
 
+<img align="right" src="https://media.giphy.com/media/dYldkmQJkb1BLM4bIw/source.gif">
+
 <h3 align="center">Currently working on:</h3>
-<div>
-	<div>
-	<ul>
-		<li>💻 My Portfolio Webpage on Google SPS Program</li>
-		<li>🕹️ Gamifying Game for Ternium onboarding executives</li>
-		<li>📚 Tutoring</li>
-		<li> Virtual HackMTY 2021</li>
-	</ul>
-	</div>
-	<div>
-		<img src="https://media.giphy.com/media/dYldkmQJkb1BLM4bIw/source.gif" width="100px">
-	</div>
-</div>
+
+<ul>
+	<li>💻 My Portfolio Webpage on Google SPS Program</li>
+	<li>🕹️ Gamifying Game for Ternium onboarding executives</li>
+	<li>📚 Tutoring</li>
+	<li> Virtual HackMTY 2021</li>
+</ul>
 
 
 <div align="center">
