@@ -12,9 +12,8 @@
 </ul>
 
 <h3 align="center">Stats</h3>
-```md
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGC)](https://github.com/anuraghazra/github-readme-stats)
-```
+
 
 
 
