@@ -12,7 +12,8 @@
 </ul>
 
 <h3 align="center">Stats</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGC)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" alt="AlejandroGC Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGC&show_icons=true&hide_border=true">
+
 
 
 
