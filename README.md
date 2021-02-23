@@ -21,7 +21,7 @@
 	<img alt="AlejandroGC Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGC&show_icons=true&hide_border=true">
 </div>
 
-<h2 align="center"> Stay Happy! 😄</h2>
+<h2 align="center"> Stay Positive! 😄</h2>
 
 
 
