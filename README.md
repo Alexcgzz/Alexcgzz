@@ -2,8 +2,8 @@
 
 My name is **Alejandro**, and I'm currently working on:
 <ul>
-💻 My Portfolio Webpage
-🕹️ Gamifying Game for Ternium onboarding executives
-📚 Tutoring 
+  	<li>💻 My Portfolio Webpage</li>
+	<li>🕹️ Gamifying Game for Ternium onboarding executives</li>
+	<li>📚 Tutoring</li>
 </ul>
 
