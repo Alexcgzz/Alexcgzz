@@ -11,9 +11,10 @@
 	<li>📚 Tutoring</li>
 </ul>
 
-<h3 align="center">Stats</h3>
-<img align="center" alt="AlejandroGC Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGC&show_icons=true&hide_border=true">
-
+<div align="center">
+<h3>Stats</h3>
+<img alt="AlejandroGC Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGC&show_icons=true&hide_border=true">
+</div>
 
 
 
