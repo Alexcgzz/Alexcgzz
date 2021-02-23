@@ -8,8 +8,9 @@
 <div align="center">
 	<img src="https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id}." alt="visitor badge"/>
 </div>
+<div align="right">
+<img src="https://media.giphy.com/media/dYldkmQJkb1BLM4bIw/source.gif" >
 
-<img align="right" src="https://media.giphy.com/media/dYldkmQJkb1BLM4bIw/source.gif">
 
 <h3 align="center">Currently working on:</h3>
 
@@ -19,7 +20,7 @@
 	<li>📚 Tutoring</li>
 	<li> Virtual HackMTY 2021</li>
 </ul>
-
+</div>
 
 <div align="center">
 	<h3>Stats</h3>
