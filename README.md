@@ -17,7 +17,8 @@
 	<li>💻 My Portfolio Webpage on Google SPS Program</li>
 	<li>🕹️ Gamifying Game for Ternium onboarding executives</li>
 	<li>📚 Tutoring</li>
-	<li> Virtual HackMTY 2021</li>
+	<li>🚩 Virtual HackMTY 2021</li>
+	<li>📱	Monstritos A.C. Application</li>
 </ul>
 <br>
 
