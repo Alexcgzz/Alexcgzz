@@ -14,11 +14,7 @@
 <h3 align="right">Currently working on:</h3>
 
 <ul>
-	<li>💻 My Portfolio Webpage on Google SPS Program</li>
-	<li>🕹️ Gamifying Game for Ternium onboarding executives</li>
-	<li>📚 Tutoring</li>
-	<li>🚩 Virtual HackMTY 2021</li>
-	<li>📱	Monstritos A.C. Application</li>
+	<li>🚩 Ex-vicepresident of HackMTY 2021</li>
 </ul>
 <br>
 
