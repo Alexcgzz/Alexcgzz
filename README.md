@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador SAP con ~2.5 años de experiencia, especializado en los módulos de **SD (Sales & Distribution)** y **MM (Materials Management)**. Graduado del Tecnológico de Monterrey en Ciencia y Tecnología de la Computación.
+Ingeniero de Software con ~2.5 años de experiencia en SAP ABAP y SQL, especializado en los módulos de **SD (Sales & Distribution)** y **MM (Materials Management)**. Graduado del Tecnológico de Monterrey en Ciencia y Tecnología de la Computación.
 
 Actualmente en transición hacia **Data Engineering**, combinando mi base técnica en SAP con nuevas habilidades en ingeniería de datos y cloud.
 
